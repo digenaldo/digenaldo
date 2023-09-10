@@ -1,16 +1,16 @@
 # Digenaldo Neto - Software/Security Engineer
 
-Welcome to my GitHub repository! I'm Digenaldo Neto, a passionate Software and Security Engineer with a keen interest in building secure and robust software applications. This README provides an overview of my projects, skills, and contributions to the tech community.
+👋 Welcome to my GitHub repository! I'm Digenaldo Neto, a passionate Software and Security Engineer with a keen interest in building secure and robust software applications. This README provides an overview of my projects, skills, and contributions to the tech community.
 
 ## About Me
 
-I am a results-driven professional with over 10 years of experience in the software industry. My journey started with a fascination for programming at a young age, and it has since evolved into a career focused on ensuring the security and reliability of software systems.
+I am a results-driven professional with over 10 years of experience in the software industry. 💼 My journey started with a fascination for programming at a young age, and it has since evolved into a career focused on ensuring the security and reliability of software systems 🔒 💻.
 
 - **Name:** Digenaldo Neto
-- **Location:** Pernambuco, Brazil
-- **Email:** digenaldo.rangel@gmail.com
-- **LinkedIn:** [linkedin.com/in/digenaldo](https://www.linkedin.com/in/digenaldo/)
-- **Website:** [digenaldo.com](https://digenaldo.com)
+- **🌎 Location:** Pernambuco, Brazil
+- **✉️ Email:** digenaldo.rangel@gmail.com
+- **🔗 LinkedIn:** [linkedin.com/in/digenaldo](https://www.linkedin.com/in/digenaldo/)
+- **🌐 Website:** [digenaldo.com](https://digenaldo.com)
 
 ## Skills
 
