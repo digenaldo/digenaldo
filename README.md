@@ -10,7 +10,6 @@ I am a results-driven professional with over 10 years of experience in the softw
 - **🌎 Location:** Pernambuco, Brazil
 - **✉️ Email:** digenaldo.rangel@gmail.com
 - **🔗 LinkedIn:** [linkedin.com/in/digenaldo](https://www.linkedin.com/in/digenaldo/)
-- **🌐 Website:** [digenaldo.com](https://digenaldo.com)
 
 ## Contact Me
 
