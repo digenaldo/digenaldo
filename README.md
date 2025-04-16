@@ -7,7 +7,7 @@
 I am a results-driven professional with over 10 years of experience in the software industry. 💼 My journey started with a fascination for programming at a young age, and it has since evolved into a career focused on ensuring the security and reliability of software systems 🔒 💻.
 
 - **😃 Name:** Digenaldo Neto
-- **🌎 Location:** Pernambuco, Brazil
+- **🌎 Location:** Paraiba, Brazil
 - **✉️ Email:** digenaldo.rangel@gmail.com
 - **🔗 LinkedIn:** [linkedin.com/in/digenaldo](https://www.linkedin.com/in/digenaldo/)
 
