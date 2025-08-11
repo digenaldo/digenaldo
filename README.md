@@ -1,4 +1,4 @@
-# Digenaldo Neto - Security Engineer
+# Digenaldo Neto - Software and Security Engineer
 
 👋 Welcome to my GitHub repository! I'm Digenaldo Neto, a passionate Software and Security Engineer with a keen interest in building secure and robust software applications.
 
